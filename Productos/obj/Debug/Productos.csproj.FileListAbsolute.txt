@@ -1,0 +1,32 @@
+C:\Users\EDWIN\source\repos\Productos\Productos\bin\Debug\EntityFramework.dll
+C:\Users\EDWIN\source\repos\Productos\Productos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EDWIN\source\repos\Productos\Productos\bin\Debug\EntityFramework.xml
+C:\Users\EDWIN\source\repos\Productos\Productos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EDWIN\source\repos\Productos\Productos\obj\Debug\Productos.Properties.Resources.resources
+C:\Users\EDWIN\source\repos\Productos\Productos\obj\Debug\Productos.csproj.GenerateResource.cache
+C:\Users\EDWIN\source\repos\Productos\Productos\obj\Debug\Productos.csproj.CoreCompileInputs.cache
+C:\Users\EDWIN\source\repos\Productos\Productos\obj\Debug\Productos.csproj.CopyComplete
+C:\Users\EDWIN\source\repos\Productos\Productos\obj\Debug\Productos.VENTAS.resources
+C:\Users\EDWIN\source\repos\Productos\Productos\obj\Debug\Productos.PAGOANTICIPO.resources
+C:\Users\EDWIN\source\repos\Productos\Productos\obj\Debug\Productos.REPORGANAPERDI.resources
+C:\Users\EDWIN\source\repos\Productos\Productos\obj\Debug\Productos.REGPRODSERV2.resources
+C:\Users\EDWIN\source\repos\Productos\Productos\obj\Debug\Productos.csprojAssemblyReference.cache
+C:\Users\EDWIN\source\repos\Productos\Productos\bin\Debug\ProductosYServicios.exe.config
+C:\Users\EDWIN\source\repos\Productos\Productos\bin\Debug\ProductosYServicios.exe.manifest
+C:\Users\EDWIN\source\repos\Productos\Productos\bin\Debug\ProductosYServicios.application
+C:\Users\EDWIN\source\repos\Productos\Productos\bin\Debug\ProductosYServicios.exe
+C:\Users\EDWIN\source\repos\Productos\Productos\bin\Debug\ProductosYServicios.pdb
+C:\Users\EDWIN\source\repos\Productos\Productos\obj\Debug\ProductosYServicios.exe.manifest
+C:\Users\EDWIN\source\repos\Productos\Productos\obj\Debug\ProductosYServicios.application
+C:\Users\EDWIN\source\repos\Productos\Productos\obj\Debug\ProductosYServicios.exe
+C:\Users\EDWIN\source\repos\Productos\Productos\obj\Debug\ProductosYServicios.pdb
+C:\Users\EDWIN\source\repos\Productos - Original Modificado\Productos\obj\Debug\Productos.csproj.AssemblyReference.cache
+C:\Users\EDWIN\source\repos\Productos - Original Modificado\Productos\obj\Debug\Productos.PAGOANTICIPO.resources
+C:\Users\EDWIN\source\repos\Productos - Original Modificado\Productos\obj\Debug\Productos.REGPRODSERV2.resources
+C:\Users\EDWIN\source\repos\Productos - Original Modificado\Productos\obj\Debug\Productos.Properties.Resources.resources
+C:\Users\EDWIN\source\repos\Productos - Original Modificado\Productos\obj\Debug\Productos.REPORGANAPERDI.resources
+C:\Users\EDWIN\source\repos\Productos - Original Modificado\Productos\obj\Debug\Productos.VENTAS.resources
+C:\Users\EDWIN\source\repos\Productos - Original Modificado\Productos\obj\Debug\Productos.csproj.GenerateResource.cache
+C:\Users\EDWIN\source\repos\Productos - Original Modificado\Productos\obj\Debug\Productos.csproj.CoreCompileInputs.cache
+C:\Users\EDWIN\source\repos\Productos - Original Modificado\Productos\obj\Debug\ProductosYServicios.exe
+C:\Users\EDWIN\source\repos\Productos - Original Modificado\Productos\obj\Debug\ProductosYServicios.pdb
